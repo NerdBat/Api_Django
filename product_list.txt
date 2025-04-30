@@ -1,0 +1,55 @@
+{
+  "name": "Clavier mécanique v2",
+  "price": 94.99,
+  "description": "Clavier pour cliquer sa grand mere la pute"
+}
+{
+  "name": "Écran 27 pouces",
+  "price": 199.99,
+  "description": "Écran LED Full HD"
+}
+{
+  "name": "Souris gamer",
+  "price": 59.90,
+  "description": "Souris RGB haute précision"
+}
+{
+  "name": "Casque audio Bluetooth",
+  "price": 89.00,
+  "description": "Casque avec réduction de bruit"
+}
+{
+  "name": "Webcam HD",
+  "price": 39.99,
+  "description": "Webcam 1080p pour visioconférences"
+}
+{
+  "name": "Clé USB 128Go",
+  "price": 19.99,
+  "description": "USB 3.0 haute vitesse"
+}
+{
+  "name": "Disque dur externe 1To",
+  "price": 79.50,
+  "description": "Portable et compatible USB-C"
+}
+{
+  "name": "Chargeur sans fil",
+  "price": 25.00,
+  "description": "Chargeur compatible Qi"
+}
+{
+  "name": "Station de charge 6 ports",
+  "price": 34.99,
+  "description": "Pour charger plusieurs appareils simultanément"
+}
+{
+  "name": "Support de téléphone",
+  "price": 14.99,
+  "description": "Support universel ajustable"
+}
+{
+  "name": "Lampe LED de bureau",
+  "price": 29.99,
+  "description": "Éclairage blanc neutre avec port USB"
+}
